@@ -10,7 +10,6 @@ if (!supabaseUrl || !supabaseAnonKey) {
 }
 
 export const supabase = createClient(
-  // بنحط قيم افتراضية عشان Next.js ميضربش إيرور في مرحلة الـ Build
   supabaseUrl || "https://placeholder.supabase.co",
   supabaseAnonKey || "placeholder",
   {
