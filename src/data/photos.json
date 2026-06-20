@@ -1,0 +1,242 @@
+[
+  {
+    "id": "giza-roadside",
+    "src": "/gallery/giza-roadside.webp",
+    "category": "architecture",
+    "title": "Giza Roadside",
+    "caption": "Pyramids, Giza",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "sphinx-pyramid",
+    "src": "/gallery/sphinx-pyramid.webp",
+    "category": "architecture",
+    "title": "The Sphinx",
+    "caption": "Giza Plateau",
+    "width": 749,
+    "height": 1153,
+    "aspect": 0.6496
+  },
+  {
+    "id": "golden-hour-drive",
+    "src": "/gallery/golden-hour-drive.webp",
+    "category": "streets",
+    "title": "Golden Hour",
+    "caption": "Cairo Streets",
+    "width": 719,
+    "height": 1280,
+    "aspect": 0.5617
+  },
+  {
+    "id": "vintage-mazda",
+    "src": "/gallery/vintage-mazda.webp",
+    "category": "streets",
+    "title": "Vintage Mazda",
+    "caption": "Cairo Streets",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "dusk-traffic",
+    "src": "/gallery/dusk-traffic.webp",
+    "category": "streets",
+    "title": "Dusk Traffic",
+    "caption": "Cairo Streets",
+    "width": 719,
+    "height": 1280,
+    "aspect": 0.5617
+  },
+  {
+    "id": "night-descent",
+    "src": "/gallery/night-descent.webp",
+    "category": "streets",
+    "title": "Night Descent",
+    "caption": "Aerial, Night",
+    "width": 750,
+    "height": 1125,
+    "aspect": 0.6667
+  },
+  {
+    "id": "suleymaniye-storm",
+    "src": "/gallery/suleymaniye-storm.webp",
+    "category": "architecture",
+    "title": "Storm Over S\u00fcleymaniye",
+    "caption": "Istanbul",
+    "width": 1600,
+    "height": 2133,
+    "aspect": 0.7501
+  },
+  {
+    "id": "rooftop-clouds",
+    "src": "/gallery/rooftop-clouds.webp",
+    "category": "architecture",
+    "title": "Rooftop Clouds",
+    "caption": "Istanbul",
+    "width": 1600,
+    "height": 1866,
+    "aspect": 0.8574
+  },
+  {
+    "id": "vintage-corner",
+    "src": "/gallery/vintage-corner.webp",
+    "category": "architecture",
+    "title": "Vintage Corner",
+    "caption": "Istanbul Cafe",
+    "width": 1600,
+    "height": 2133,
+    "aspect": 0.7501
+  },
+  {
+    "id": "dome-and-trees",
+    "src": "/gallery/dome-and-trees.webp",
+    "category": "architecture",
+    "title": "Dome & Trees",
+    "caption": "Istanbul",
+    "width": 1600,
+    "height": 1600,
+    "aspect": 1.0
+  },
+  {
+    "id": "snow-cedar",
+    "src": "/gallery/snow-cedar.webp",
+    "category": "architecture",
+    "title": "Snow Cedar",
+    "caption": "Istanbul Winter",
+    "width": 1200,
+    "height": 1600,
+    "aspect": 0.75
+  },
+  {
+    "id": "golden-horn",
+    "src": "/gallery/golden-horn.webp",
+    "category": "sea",
+    "title": "Golden Horn",
+    "caption": "Istanbul",
+    "width": 768,
+    "height": 1024,
+    "aspect": 0.75
+  },
+  {
+    "id": "wingview-haze",
+    "src": "/gallery/wingview-haze.webp",
+    "category": "sea",
+    "title": "Wingview Haze",
+    "caption": "Above the Nile",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "wingview-river",
+    "src": "/gallery/wingview-river.webp",
+    "category": "sea",
+    "title": "Wingview River",
+    "caption": "Above the Nile",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "coastal-glow",
+    "src": "/gallery/coastal-glow.webp",
+    "category": "sea",
+    "title": "Coastal Glow",
+    "caption": "North Coast",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "deep-turquoise",
+    "src": "/gallery/deep-turquoise.webp",
+    "category": "sea",
+    "title": "Deep Turquoise",
+    "caption": "Mediterranean",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "turquoise-reef",
+    "src": "/gallery/turquoise-reef.webp",
+    "category": "sea",
+    "title": "Turquoise Reef",
+    "caption": "Mediterranean",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "cliffside-blue",
+    "src": "/gallery/cliffside-blue.webp",
+    "category": "sea",
+    "title": "Cliffside Blue",
+    "caption": "Marsa Matrouh",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "headland-walkers",
+    "src": "/gallery/headland-walkers.webp",
+    "category": "sea",
+    "title": "Headland",
+    "caption": "Marsa Matrouh",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "carved-cliffs",
+    "src": "/gallery/carved-cliffs.webp",
+    "category": "sea",
+    "title": "Carved Cliffs",
+    "caption": "Marsa Matrouh",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "bay-promenade",
+    "src": "/gallery/bay-promenade.webp",
+    "category": "sea",
+    "title": "Bay Promenade",
+    "caption": "North Coast",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "nile-greenery",
+    "src": "/gallery/nile-greenery.webp",
+    "category": "sea",
+    "title": "Nile Greenery",
+    "caption": "Nile",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "cornfield-sky",
+    "src": "/gallery/cornfield-sky.webp",
+    "category": "streets",
+    "title": "Cornfield Sky",
+    "caption": "Delta, Egypt",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  },
+  {
+    "id": "alexandria-facade",
+    "src": "/gallery/alexandria-facade.webp",
+    "category": "architecture",
+    "title": "Old Facade",
+    "caption": "Alexandria",
+    "width": 960,
+    "height": 1280,
+    "aspect": 0.75
+  }
+]
